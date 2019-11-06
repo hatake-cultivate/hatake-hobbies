@@ -1,7 +1,9 @@
 ---
 templateKey: index-page
 title: 個人的な趣味のまとめ
-heading: 個人的な趣味のまとめ
+image: /img/home-jumbotron.jpg
+heading: 
+subheading: 
 mainpitch:
   title: Why Kaldi
   description: >
